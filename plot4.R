@@ -1,4 +1,4 @@
-##loading the electricity consumption dataset
+##loading the household power consumption dataset
 
 power_con <- read.table("household_power_consumption.txt",skip=1,sep=";")
 
